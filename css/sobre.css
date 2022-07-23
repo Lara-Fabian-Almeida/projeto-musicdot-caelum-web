@@ -1,9 +1,15 @@
 body {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
     font-family: "Helvetica", "Lucida Grande", sans-serif;
     color: #3D3D3D;
 }
 
 h1 {
+    padding: 10px;
+
     background-color: #E1EDF2;
 }
 
@@ -12,17 +18,15 @@ h2 {
 }
 
 figure {
+    margin: 30px;
+    padding: 15px;
+
     text-align: center;
 
     background-color: whitesmoke;
     border: 1px solid lightgrey;
 }
 
-p {
-    background-color: red;
-    height: 50px;
-    width: 1200px;
-    padding: 10px 15px;
-    margin: 0 auto;
-    color: white;
+figcaption {
+    margin-top: 10px;
 }
