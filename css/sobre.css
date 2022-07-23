@@ -17,3 +17,12 @@ figure {
     background-color: whitesmoke;
     border: 1px solid lightgrey;
 }
+
+p {
+    background-color: red;
+    height: 300px;
+    width: 1200px;
+    padding: 10px 15px;
+    margin: 0 auto;
+    color: white;
+}
